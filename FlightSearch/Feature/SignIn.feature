@@ -12,5 +12,5 @@ Then user will login with "<emailAddress>" and "<password>" to check email recei
 
 Examples:
        | username | organization | emailAddress | password |
-       | Rajni    | Rajni        | rajni2193verma@gmail.com | Yuvraj123# |
+       | Rajni    | Rajni        | rajni2193verma@gmail.com | Test@1234 |
 
